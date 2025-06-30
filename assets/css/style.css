@@ -1799,7 +1799,8 @@ Main Header One
 }
 
 .logo-box-one a img {
-  width: 100%;
+  width: 250px;
+  height: 50px;
 }
 
 .header-search-box {
