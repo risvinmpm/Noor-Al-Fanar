@@ -27,12 +27,6 @@
 }
 
 
-
-
-
-
-
-
 .icon-magnifying-glass:before {
   content: "\e900";
 }
@@ -327,4 +321,9 @@
 
 .icon-call:before {
   content: "\e949";
+}
+
+
+.icon-xxx:before {
+  content: "\e9xx";
 }
