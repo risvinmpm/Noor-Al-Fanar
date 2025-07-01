@@ -4255,6 +4255,8 @@ Portfolio One
   border-bottom-left-radius: 0px;
   z-index: 1;
   border-top-right-radius: 100px;
+  width: 100%;
+  height: 450px;
 }
 
 .portfolio-one__single-img .inner::before {
